@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FooRESTApi": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\IIS Express\\iisexpress.exe",
+      "commandLineArgs": "/path:\"$(SolutionDir)$(ProjectName)\" /port:12345"
+    }
+  }
+}
